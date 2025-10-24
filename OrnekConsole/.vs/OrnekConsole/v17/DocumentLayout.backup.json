@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\alpce\\source\\repos\\OrnekConsole\\",
+  "WorkspaceRootPath": "C:\\Users\\alpce\\OneDrive\\Masa\u00FCst\u00FC\\AraProjemiz\\AraProje\\OrnekConsole\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D6AA340F-FB90-474F-8BFC-8708DE9F40B6}|OrnekConsole\\OrnekConsole.csproj|c:\\users\\alpce\\source\\repos\\ornekconsole\\ornekconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D6AA340F-FB90-474F-8BFC-8708DE9F40B6}|OrnekConsole\\OrnekConsole.csproj|c:\\users\\alpce\\onedrive\\masa\u00FCst\u00FC\\araprojemiz\\araproje\\ornekconsole\\ornekconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D6AA340F-FB90-474F-8BFC-8708DE9F40B6}|OrnekConsole\\OrnekConsole.csproj|solutionrelative:ornekconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -28,11 +28,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\alpce\\source\\repos\\OrnekConsole\\OrnekConsole\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\alpce\\OneDrive\\Masa\u00FCst\u00FC\\AraProjemiz\\AraProje\\OrnekConsole\\OrnekConsole\\Program.cs",
               "RelativeDocumentMoniker": "OrnekConsole\\Program.cs",
-              "ToolTip": "C:\\Users\\alpce\\source\\repos\\OrnekConsole\\OrnekConsole\\Program.cs",
+              "ToolTip": "C:\\Users\\alpce\\OneDrive\\Masa\u00FCst\u00FC\\AraProjemiz\\AraProje\\OrnekConsole\\OrnekConsole\\Program.cs",
               "RelativeToolTip": "OrnekConsole\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-24T06:39:52.06Z",
               "EditorCaption": ""
