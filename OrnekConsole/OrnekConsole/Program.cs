@@ -8,7 +8,9 @@
             Console.WriteLine("Değişiklik");
             Console.WriteLine("Değişiklik2");
 
-            int x = 9;
+            int x = 8;
+
+        
 
         }
     }
