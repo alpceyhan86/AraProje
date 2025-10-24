@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OrnekConsole")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0a55ae51ed5c5a2a839aa1f975144fda878d70c8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4c6a29d99a61e0628d607d4031e6876733a4868a")]
 [assembly: System.Reflection.AssemblyProductAttribute("OrnekConsole")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OrnekConsole")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

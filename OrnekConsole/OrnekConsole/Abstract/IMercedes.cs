@@ -8,5 +8,8 @@ namespace OrnekConsole.Abstract
 {
     internal interface IMercedes
     {
+
+        public string KasaKOdu { get; set; }
+        public string Model { get; set; }
     }
 }
